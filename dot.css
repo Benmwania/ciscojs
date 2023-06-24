@@ -1,0 +1,23 @@
+body{
+    background-color: gold;
+    background-position: 0%;
+}
+h1{
+    color: rgb(0, 255, 21);
+}
+#ben{
+    color: rgb(89, 0, 255);
+}
+.mwania{
+    color: red;
+    font-style: italic;
+    font-weight: 100;
+}
+.menulog{
+    right: auto;
+    float: right;
+}
+footer{
+    bottom: 0px;
+    position: absolute;
+}
